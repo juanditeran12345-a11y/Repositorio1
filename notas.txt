@@ -1,0 +1,1 @@
+"Notas: Este proyecto usar  un regulador de 5V" 
